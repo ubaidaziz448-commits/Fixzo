@@ -1,0 +1,6 @@
+{
+  "name": "Fixzo",
+  "description": "Trusted Workers, One Tap Away. Find verified plumbers, electricians, and tradespeople instantly. Direct chat, live location tracking, estimated cost calculators, dual-language support, and a secure payment wallet system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
